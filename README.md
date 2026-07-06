@@ -1,4 +1,4 @@
-# Business Task Manager Terminal
+# Task Manager Terminal
 
 A robust, role-based command-line interface (CLI) application built in Python to help small teams efficiently coordinate, delegate, track, and analyze project milestones. 
 
@@ -30,7 +30,7 @@ Data arrays are serialized using standard comma-separated variables (`CSV` forma
 
 ---
 
-## 🛠️ Getting Started
+## Getting Started
 
 ### Prerequisites
 * **Python 3.x** installed locally.
@@ -38,4 +38,4 @@ Data arrays are serialized using standard comma-separated variables (`CSV` forma
 ### Installation & Execution
 1. Clone the repository to your desktop machine:
    ```bash
-   git clone [https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git](https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git)
+   git clone [https://github.com/jadendewet18/task-manager-python.git](https://github.com/jadendewet18/task-manager-python.git)
